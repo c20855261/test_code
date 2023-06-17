@@ -1,0 +1,4 @@
+Flask==2.0.1
+Django==3.2.4
+FastAPI==0.68.0
+Tornado==6.1
